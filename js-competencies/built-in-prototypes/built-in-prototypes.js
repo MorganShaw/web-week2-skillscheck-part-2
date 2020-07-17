@@ -11,7 +11,39 @@
   
   //Code here
 
+// let dragonArray = arr.map((elem, i, arr) => {
+//   return elem = elem + "...here be dragons" 
 
+// })
+
+// function dragonMapper(arr) {
+//   arr.map(elem => {
+//     return elem = `&{elem}...here be dragons`
+//   })
+//   return arr
+// }
+
+
+// function dragon Mapper(arr) {
+//     arr.map((elem) => {
+//       arr[i] = arr[i] + " here be dragons"
+//     })
+//     return arr
+// }
+
+// let addDragonString = arr.map( elem => {
+//     return `${elem}...here be dragons`
+// })
+git
+function dragonMapper(arr) {
+  arr.map(elem => {
+    return `${elem}...here be dragons`
+  })
+}
+
+// let namesOfPeople = inventors.map( elem => {
+//   return `${elem.first} ${elem.last}`
+// })
 
 //////////////////PROBLEM 2////////////////////
 
@@ -20,8 +52,10 @@
 //does NOT have the key favoriteCookie.
 //cookieLoversOnly should return the filtered array.
   
-  //Code here
-
+//   //Code here
+// function cookieLoversOnly(arr) {
+//     return elem = elem + "...and here be dragons"
+// }
 
 //////////////////PROBLEM 3////////////////////
 
@@ -35,7 +69,9 @@
 
 
   //Code here
+function changeValue (function(elem, i, arr) => ) {
 
+}
 
 
 //////////////////PROBLEM 4////////////////////
